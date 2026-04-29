@@ -20,6 +20,7 @@ The work is split into focused repos instead of one mixed experimental folder:
 | --- | --- |
 | [`stego`](https://github.com/covdef/stego) | LLM text steganography, Modal services, relays, benchmarks, and decode tests. |
 | [`compression-decompression`](https://github.com/covdef/compression-decompression) | LLM/RWKV compression experiments, llama-zip work, Android cross-device tests, and deterministic decompression tooling. |
+| [`hiding-models`](https://github.com/covdef/hiding-models) | Model-weight hiding, LoRA activation/recovery experiments, and hidden-adapter research reports. |
 | [`disclaimer`](https://github.com/covdef/disclaimer) | Corporate-disclaimer watermarking, fingerprint tokens, endpoint tests, and entropy analysis. |
 | [`email-entropy`](https://github.com/covdef/email-entropy) | Email watermarking, verification, arithmetic-coding variants, and backend benchmarks. |
 | [`f5-tts`](https://github.com/covdef/f5-tts) | F5-TTS Modal backend for voice cloning and speech generation experiments. |
